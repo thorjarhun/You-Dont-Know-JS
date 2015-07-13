@@ -29,30 +29,26 @@
 	* Promises
 	* Generators + Promises
 * Chapter 5: Collections
-	* TypedArrays
+	* Typed Arrays
 	* Maps
 	* WeakMaps
 	* Sets
 	* WeakSets
-* Chapter 6: API Additions
+* Chapter 6: New APIs
 	* `Array`
 	* `Object`
 	* `Math`
 	* `Number`
 	* `String`
-* Chapter 7: Meta Programming
+* Chapter 7: Meta
+	* Realms
 	* Function Names
-	* Meta Properties
-	* Well Known Symbols
-	* Proxies
+	* Built-in Object Symbols
 	* `Reflect` API
-	* Feature Testing
-	* Tail Call Optimization (TCO)
+	* Proxies
+	* Tail Call Optimization
 * Chapter 8: Beyond ES6
-	* `async function`s
+	* `async` Functions
 	* `Object.observe(..)`
-	* Exponentiation Operator
-	* Object Properties and `...`
-	* `Array#includes(..)`
-	* SIMD
+	* Other Stuff
 * Appendix A: Acknowledgments

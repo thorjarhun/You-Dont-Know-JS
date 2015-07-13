@@ -20,7 +20,7 @@ Please feel free to contribute to the quality of this content by submitting PR's
 * Read online (free!): ["this & Object Prototypes"](this & object prototypes/README.md#you-dont-know-js-this--object-prototypes), Published: [Buy Now](http://shop.oreilly.com/product/0636920033738.do)
 * Read online (free!): ["Types & Grammar"](types & grammar/README.md#you-dont-know-js-types--grammar), Published: [Buy Now](http://shop.oreilly.com/product/0636920033745.do)
 * Read online (free!): ["Async & Performance"](async & performance/README.md#you-dont-know-js-async--performance), Published: [Buy Now](http://shop.oreilly.com/product/0636920033752.do)
-* Read online (free!): ["ES6 & Beyond"](es6 & beyond/README.md#you-dont-know-js-es6--beyond) (in production)
+* Read online (free!): ["ES6 & Beyond"](es6 & beyond/README.md#you-dont-know-js-es6--beyond) (in progress)
 
 ## Publishing
 
@@ -28,11 +28,9 @@ These books are being released here as drafts, free to read, but are also being 
 
 If you like the content you find here, and want to support more content like it, please purchase the books once they are available for sale, through your normal book sources. :)
 
-If you'd like to contribute financially towards the effort (or any of my other OSS work) aside from purchasing the books, I do have a [patreon](https://www.patreon.com/getify/) that I would always appreciate your generosity towards.
+If you'd like to contribute financially towards the effort (or any of my other OSS work) aside from purchasing the books, I do have a [gratipay](https://gratipay.com/getify/) that I would always appreciate your generosity towards.
 
-<a href="https://www.patreon.com/getify"><img src="http://blog.getify.com/wp-content/uploads/patreon.png"></a>
-
-## In-person Training
+## Training
 
 The content for these books derives heavily from a series of training materials I teach professionally (in both public and private-corporate workshop format), called "Advanced JS: The 'What You Need To Know' Parts".
 
@@ -40,19 +38,11 @@ If you like this content and would like to contact me regarding conducting train
 
 [http://getify.me](http://getify.me)
 
-## Online Video Training
-
-I also have some JS training material available in on-demand video format. I teach courses through [Frontend Masters](https://FrontendMasters.com), like my [Advanced JS](https://frontendmasters.com/courses/advanced-javascript/) workshop (more courses coming soon!).
-
-That same course is also [available through Pluralsight](http://www.pluralsight.com/courses/advanced-javascript).
-
-## Content Contributions
+## Contributions
 
 Any contributions you make to this effort **are of course greatly appreciated**.
 
-However, if you choose to contribute content (not just typo corrections) to this repo, you agree that you're giving me a non-exclusive license to use that content for the book series, as I (and O'Reilly) deem appropriate. You probably guessed that already, but we just have to make the lawyers happy by explicitly stating it.
-
-So: blah, blah, blah... :)
+However, if you choose to contribute content (not just typo corrections) to this repo, you agree that you're giving me a non-exclusive license to use that content for the book series, as I (and O'Reilly) deem appropriate. You probably guessed that already, but we just have to make the lawyers happy by explicitly stating it. So: blah, blah, blah... :)
 
 ## License & Copyright
 
